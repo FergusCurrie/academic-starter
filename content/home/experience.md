@@ -32,7 +32,7 @@ date_format = "Jan-02-06"
   company = "Victoria University of Wellington"
   company_url = ""
   location = "Wellington, NZ"
-  date_start = "2020-12-14"
+  date_start = "2020-11-1"
   date_end = ""
   description = """Multi-objective optimisation for improving fish breeding program design"""
 
