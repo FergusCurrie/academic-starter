@@ -33,11 +33,11 @@ date_format = "Jan-02-06"
   company_url = ""
   location = "Wellington, NZ"
   date_start = "2020-11-3"
-  date_end = "2021-2-1"
+  date_end = ""
   description = """Multi-objective Optimisaiton for improving fish breeding program design"""
 
 [[experience]]
-  title = "University Tutuor"
+  title = "University Tutor"
   company = "Victoria University of Wellington"
   company_url = ""
   location = "Wellington, NZ"
