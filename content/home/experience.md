@@ -35,15 +35,7 @@ date_format = "January 2, 2006"
   date_start = "2020-11-01"
   date_end = ""
   description = """Multi-objective optimisation for improving fish breeding program design"""
-  
-  [[experience]]
-  title = "University Tutor"
-  company = "Victoria University of Wellington"
-  company_url = ""
-  location = "Wellington, NZ"
-  date_start = "2019-2-01"
-  date_end = "2019-5-01"
-  description = """Teaching first year students an introductory computer science paper. Ran laboratory sessions and marked assignments."""
+
 
   
 +++
