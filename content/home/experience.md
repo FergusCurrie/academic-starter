@@ -19,12 +19,30 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Data Science and Machine Learning Engineer"
+  company = "Lingo Search & AI"
+  company_url = ""
+  location = "Nelson, NZ"
+  date_start = "2020-12-14"
+  date_end = ""
+  description = """ Creating data cleaning and data engineering, data visualisation, data processing pipelines, designing, developing and deploying machine learning solutions. Primarily involved with natural langauge processing using spaCy."""
+
+[[experience]]
   title = "Summer Research Scholarship"
   company = "Victoria University of Wellington"
   company_url = ""
   location = "Wellington, NZ"
   date_start = "2020-11-3"
-  date_end = "2021-2-1"
+  date_end = ""
   description = """Multi-objective Optimisaiton for improving fish breeding program design"""
+
+[[experience]]
+  title = "University Tutuor"
+  company = "Victoria University of Wellington"
+  company_url = ""
+  location = "Wellington, NZ"
+  date_start = "2019-2-1"
+  date_end = "2019-5-1"
+  description = """Teaching first year students an introductory computer science paper. Ran labatory sessions and marked assignments."""
 
 +++
