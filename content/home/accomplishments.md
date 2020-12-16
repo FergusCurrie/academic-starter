@@ -19,9 +19,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Victoria University of Wellington"
+  organization = "VUW"
   organization_url = ""
-  title = "Bachelor of Science Majoring in Computer Science"
+  title = "BSc"
   url = ""
   certificate_url = ""
   date_start = "2018-2-25"
