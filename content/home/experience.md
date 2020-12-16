@@ -19,18 +19,12 @@ date_format = "Jan-02-06"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Data Science and Machine Learning Engineer"
+  company = "Lingo Search & AI"
   company_url = ""
-  location = "California"
+  location = "Nelson, NZ"
   date_start = "2017-01-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """Creating data cleaning and data engineering, data visualisation, data processing pipelines, designing, developing and deploying machine learning solutions. Primarily involved with natural language processing using spaCy."""
 
 +++
