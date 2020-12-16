@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan-02-06"
+date_format = "January 2, 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -35,6 +35,15 @@ date_format = "Jan-02-06"
   date_start = "2020-11-01"
   date_end = ""
   description = """Multi-objective optimisation for improving fish breeding program design"""
+  
+  [[experience]]
+  title = "University Tutor"
+  company = "Victoria University of Wellington"
+  company_url = ""
+  location = "Wellington, NZ"
+  date_start = "2019-2-01"
+  date_end = "2019-5-01"
+  description = """Teaching first year students an introductory computer science paper. Ran laboratory sessions and marked assignments."""
 
   
 +++
