@@ -18,4 +18,13 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[experience]]
+  title = "Summer Research Scholarship"
+  company = "Victoria University of Wellington"
+  company_url = ""
+  location = "Wellington, NZ"
+  date_start = "2020-11-3"
+  date_end = "2021-2-1"
+  description = """Multi-objective Optimisaiton for improving fish breeding program design"""
+
 +++
