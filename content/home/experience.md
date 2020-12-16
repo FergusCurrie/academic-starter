@@ -23,7 +23,7 @@ date_format = "Jan-02-06"
   company = "Lingo Search & AI"
   company_url = ""
   location = "Nelson, NZ"
-  date_start = "2017-01-01"
+  date_start = "2020-12-14"
   date_end = ""
   description = """Creating data cleaning and data engineering, data visualisation, data processing pipelines, designing, developing and deploying machine learning solutions. Primarily involved with natural language processing using spaCy."""
 
