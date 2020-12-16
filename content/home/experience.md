@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2, 2006"
+date_format = "Jan-02-06"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -23,7 +23,7 @@ date_format = "Jan 2, 2006"
   company = "Lingo Search & AI"
   company_url = ""
   location = "Nelson, NZ"
-  date_start = "Dec 14, 2020"
+  date_start = "Dec-14-20"
   date_end = ""
   description = """ Creating data cleaning and data engineering, data visualisation, data processing pipelines, designing, developing and deploying machine learning solutions. Primarily involved with natural langauge processing using spaCy."""
 
@@ -32,7 +32,7 @@ date_format = "Jan 2, 2006"
   company = "Victoria University of Wellington"
   company_url = ""
   location = "Wellington, NZ"
-  date_start = "Nov 3, 2020"
+  date_start = "Nov-3-20"
   date_end = ""
   description = """Multi-objective Optimisaiton for improving fish breeding program design"""
 
@@ -41,8 +41,8 @@ date_format = "Jan 2, 2006"
   company = "Victoria University of Wellington"
   company_url = ""
   location = "Wellington, NZ"
-  date_start = "Feb 25, 2019"
-  date_end = "2019-5-1"
+  date_start = "Feb-25-19"
+  date_end = "May-1-20"
   description = """Teaching first year students an introductory computer science paper. Ran labatory sessions and marked assignments."""
 
 +++
